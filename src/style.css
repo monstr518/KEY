@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #252b4e;
+	padding:0px;
+	margin:0px;
+	font-family: sans-serif;
+	text-align: left;
+	color: #fff;
+}
+
+
+center {
+	
+}
+
+
+#id-can-polotno {
+	border: #aaa solid 1px;
+	padding:0px;
+	margin:0px;
+	position: absolute;
+}
+
+
+
+
+
